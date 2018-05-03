@@ -1,0 +1,11 @@
+{
+  "name": "ConnectAuth",
+  "description": "php connect auth library",
+  "keywords": ["connect", "auth", "qq", "weibo", "wechat"],
+  "license": "MIT",
+  "type": "library",
+  "require": {},
+  "autoload": {
+    "files": ["init.php"]
+  }
+}
