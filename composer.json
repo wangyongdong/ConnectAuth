@@ -1,5 +1,5 @@
 {
-  "name": "ConnectAuth",
+  "name": "wangyongdong/ConnectAuth",
   "description": "php connect auth library",
   "keywords": ["connect", "auth", "qq", "weibo", "wechat"],
   "license": "MIT",
